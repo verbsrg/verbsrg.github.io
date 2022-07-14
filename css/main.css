@@ -61,7 +61,7 @@ nav ul {
 .about img {
   height: 25rem;
   width: auto;
-  margin: 2rem;
+  margin-top: 2rem;
   transition: transform .5s ease;
 }
 
@@ -128,6 +128,10 @@ nav ul {
   margin: 10px;
   border-radius: 11px;
   box-shadow: 0 3px 10px;
+}
+
+.future-projects {
+  text-align: center;
 }
 
 .contact {
